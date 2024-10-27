@@ -59,7 +59,7 @@ For your convenience, we've provided an automated script that applies all the ha
 
 1. Download the script:
    ```bash
-   wget https://raw.githubusercontent.com/ME0094/Kali-Linux-Hardening-Commands-for-VirtualBox/main/harden_kali.sh
+   wget https://raw.githubusercontent.com/ME0094/Ubuntu-22.04-LTS-Hardening-Commands/main/ubuntu_hardening.sh
    ```
 
 2. Make the script executable:
