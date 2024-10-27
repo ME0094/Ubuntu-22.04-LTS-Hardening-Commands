@@ -3,9 +3,9 @@
 # Ubuntu 22.04 LTS Hardening Script
 
 # Check if script is run as root
-if [ "$EUID" -ne 0 ]; then
-  echo "Please run as root"
-  exit
+if [ "$EUID" -ne 0 ]; then 
+    echo "Please run as root" 
+    exit
 fi
 
 # 1. System Updates
