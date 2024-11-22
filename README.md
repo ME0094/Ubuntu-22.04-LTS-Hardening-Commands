@@ -55,7 +55,7 @@ Ensure you have the following before starting the hardening process:
 - A secure network connection for downloading updates and packages
 
 ## Automated Hardening Script
-For your convenience, we've provided an automated script that applies all the hardening steps. To use it:
+For your convenience, I've provided an automated script that applies all the hardening steps. To use it:
 
 1. Download the script:
    ```bash
