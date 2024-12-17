@@ -290,7 +290,7 @@ I welcome contributions to improve this hardening guide. To contribute:
 All contributions will undergo a security review before merging.
 
 ## Reporting Security Vulnerabilities
-If you discover a security vulnerability, please email [martineliseo@duck.com](mailto:martineliseo@duck.com).
+If you discover a security vulnerability, please email [martineliseo@duck.com](mailto:martineliseo@duck.com)
 
 I will address all security-related issues promptly.
 
